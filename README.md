@@ -1,5 +1,5 @@
 # Alarm Manager 2022
-----------------------
+
 ## Авторы
 Maxim Vasilchenko,
 Chernov Pavel (k1rch),
